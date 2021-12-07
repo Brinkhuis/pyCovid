@@ -1,0 +1,10 @@
+env
+__pycache__
+.ipynb_checkpoints
+.pytest_cache
+.vscode
+.git
+WijkBuurtkaart*
+setup_env.sh
+*.ipynb
+
