@@ -6,5 +6,3 @@ __pycache__
 .git
 WijkBuurtkaart*
 setup_env.sh
-*.ipynb
-
